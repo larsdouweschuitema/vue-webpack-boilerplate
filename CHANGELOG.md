@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Use `output.filename` substitutions setting to define name of output files using `[contenthash]` in `webpack` configuration
 - Extract boilerplate by creating single runtime bundle for all chunks using `optimization.runtimeChunk` in `webpack` configuration
 - Use module identifiers using `moduleIds` in `webpack` configuration
+- Minify JavaScript in production using `uglifyjs-webpack-plugin` optimization in `webpack` production configuration
 
 ## [1.0.0] - 2019-11-03
 
