@@ -56,6 +56,13 @@ $ yarn build
 
 ## Features
 
+- Single file components using `vue-loader`
+- Linting on save using `eslint`
+- Hot reloading
+- Source maps
+- Auto generated file including root element using `html-webpack-plugin` and `html-webpack-root-plugin`
+- Split development and production `webpack` configurations achieved through `webpack-merge`
+
 ## Contributing
 
 To contribute to this repository see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
