@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+- Unit-testing using `Jest`
+- Minfied JavaScript
+- File hashing
+
 ## [1.0.0] - 2019-11-03
 
 ### Added
