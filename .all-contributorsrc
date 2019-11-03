@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "larsdouweschuitema",
+      "name": "Lars Douwe Schuitema",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8817968?v=4",
+      "profile": "http://www.larsschuitema.nl",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "vue-webpack-boilerplate",
+  "projectOwner": "larsdouweschuitema",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
