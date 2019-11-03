@@ -10,6 +10,7 @@ A webpack boilerplate for Vue including hot-reloading, linting, unit testing and
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Testing](#testing)
 - [Tech stack](#tech-stack)
 - [Features](#features)
 - [Licenses](#licenses)
@@ -45,6 +46,13 @@ Create production build
 
 ```
 $ yarn build
+```
+
+## Testing
+Unit testing using `jest`
+
+```
+$ yarn run unit
 ```
 
 ## Tech stack
