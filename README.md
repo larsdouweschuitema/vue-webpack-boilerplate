@@ -4,7 +4,7 @@
   Vue Webpack Boilerplate
 </h1>
 
-A webpack boilerplate for Vue including hot-reloading, linting, unit testing and css extraction.
+A webpack boilerplate for Vue including hot-reloading, linting and unit testing.
 
 ## Table of contents
 
@@ -61,6 +61,7 @@ $ yarn run unit
 - Module bundler `webpack`
 - Client-side framework `vue`
 - Linter `eslint`
+- Unit testing `jest`
 
 ## Features
 
@@ -70,6 +71,7 @@ $ yarn run unit
 - Source maps
 - Auto generated file including root element using `html-webpack-plugin` and `html-webpack-root-plugin`
 - Split development and production `webpack` configurations achieved through `webpack-merge`
+- Unit testing using `jest`
 
 ## Contributing
 
