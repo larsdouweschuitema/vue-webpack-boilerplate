@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Unit testing using `Jest`
+- Unit testing using `jest`
 - End-to-end testing using `Nightwatch
 - Minfied JavaScript
 - File hashing
