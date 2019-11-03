@@ -40,7 +40,7 @@ module.exports = {
     new VueLoaderPlugin(),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: "Production"
+      title: "My app"
     }),
     new HtmlWebpackRootPlugin("app")
   ],
