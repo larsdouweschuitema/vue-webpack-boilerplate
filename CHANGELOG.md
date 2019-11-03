@@ -9,7 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - End-to-end testing using `Nightwatch
 - Minfied JavaScript
-- File hashing
 
 ## [1.0.1] - 2019-11-03
 - Unit testing using `jest`
