@@ -56,6 +56,17 @@ Unit testing using `jest`
 $ yarn run unit
 ```
 
+End-to-end testing using `nightwatch`
+```
+$ yarn run e2e
+```
+
+Run all tests
+```
+$ yarn run test
+```
+
+
 ## Tech stack
 
 - Package manager `yarn`
@@ -73,7 +84,6 @@ $ yarn run unit
 - Source maps
 - Auto generated file including root element using `html-webpack-plugin` and `html-webpack-root-plugin`
 - Split development and production `webpack` configurations achieved through `webpack-merge`
-- Unit testing using `jest`
 - Minified JavaScript in production using `uglifyjs-webpack-plugin`
 
 ## Contributing

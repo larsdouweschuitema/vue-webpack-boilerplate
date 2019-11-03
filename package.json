@@ -10,7 +10,7 @@
     "start": "webpack-dev-server --open --config webpack.dev.js",
     "build": "webpack --config webpack.prod.js",
     "lint": "eslint --ext .js,.vue src",
-    "unit": "jest",
+    "unit": "jest src/tests/unit",
     "e2e": "nightwatch src/tests/e2e",
     "test": "yarn run unit && yarn run e2e"
   },
