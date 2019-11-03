@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://semver.org)
+[![version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://semver.org)
 
 <h1 align="center">
   Vue Webpack Boilerplate
