@@ -7,7 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Unit-testing using `Jest`
+- Unit testing using `Jest`
+- End-to-end testing using `Nightwatch
 - Minfied JavaScript
 - File hashing
 
@@ -24,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `css-loader` to allow `import` of CSS from within a JavaScript module
 - `mini-css-extract-plugin` to extract CSS into separate file
 - `eslint` and `eslint-loader` to lint code for identifying and reporting on patterns in JavaScript
+- Unit testing using `jest`
 
 ## [Releases]
 
