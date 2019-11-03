@@ -15,6 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Unit testing using `jest`
 - Add editor configuration
 - Add `eslint` configuration and ignore file
+- Use `output.filename` substitutions setting to define name of output files using `[contenthash]` in `webpack` configuration
+- Extract boilerplate by creating single runtime bundle for all chunks using `optimization.runtimeChunk` in `webpack` configuration
+- Use module identifiers using `moduleIds` in `webpack` configuration
 
 ## [1.0.0] - 2019-11-03
 
