@@ -4,6 +4,8 @@
   Vue Webpack Boilerplate
 </h1>
 
+A webpack boilerplate for Vue including hot-reloading, linting, unit testing and css extraction.
+
 ## Table of contents
 
 - [Prerequisites](#prerequisites)
@@ -47,8 +49,10 @@ $ yarn build
 
 ## Tech stack
 
-- Package manager: `yarn`
-- Module bundler: `webpack`
+- Package manager `yarn`
+- Module bundler `webpack`
+- Client-side framework `vue`
+- Linter `eslint`
 
 ## Features
 
