@@ -7,8 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- End-to-end testing using `Nightwatch
-- Minfied JavaScript
+## [1.2.0] - 2019-11-03
+- Add basic end-to-end testing configuration using `Nightwatch and include an example
 
 ## [1.1.0] - 2019-11-03
 - Unit testing using `jest`
