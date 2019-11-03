@@ -56,6 +56,10 @@ $ yarn build
 
 ## Features
 
+## Contributing
+
+To contribute to this repository see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details
+
 ## Licenses
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
