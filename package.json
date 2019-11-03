@@ -8,19 +8,29 @@
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "lint": "eslint --ext .js,.vue src",
+    "test": "jest"
   },
   "devDependencies": {
-    "@babel/core": "7.6.4",
+    "@vue/test-utils": "1.0.0-beta.29",
+    "babel-core": "6.26.3",
+    "babel-jest": "24.9.0",
     "babel-loader": "8.0.6",
+    "babel-preset-env": "1.7.0",
     "clean-webpack-plugin": "3.0.0",
     "css-loader": "3.2.0",
     "eslint": "6.6.0",
     "eslint-loader": "3.0.2",
+    "eslint-plugin-jest": "23.0.2",
+    "eslint-plugin-vue": "^5.2.3",
     "html-webpack-plugin": "3.2.0",
     "html-webpack-root-plugin": "0.10.0",
+    "jest": "24.9.0",
+    "jest-serializer-vue": "2.0.2",
     "mini-css-extract-plugin": "0.8.0",
     "style-loader": "1.0.0",
+    "vue-jest": "3.0.5",
     "vue-loader": "15.7.2",
     "vue-template-compiler": "2.6.10",
     "webpack": "4.41.2",
@@ -30,5 +40,21 @@
   },
   "dependencies": {
     "vue": "2.6.10"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "js",
+      "vue"
+    ],
+    "moduleNameMapper": {
+      "^@/(.*)$": "<rootDir>/src/$1"
+    },
+    "transform": {
+      "^.+\\.js$": "<rootDir>/node_modules/babel-jest",
+      ".*\\.(vue)$": "<rootDir>/node_modules/vue-jest"
+    },
+    "snapshotSerializers": [
+      "<rootDir>/node_modules/jest-serializer-vue"
+    ]
   }
 }
