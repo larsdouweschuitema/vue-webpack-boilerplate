@@ -1,2 +1,4 @@
 node_modules
 dist
+chromedriver.log
+tests_output/

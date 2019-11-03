@@ -5,7 +5,7 @@
   Vue Webpack Boilerplate
 </h1>
 
-A webpack boilerplate for Vue including hot-reloading, linting and unit testing.
+A webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing.
 
 ## Table of contents
 
@@ -63,6 +63,7 @@ $ yarn run unit
 - Client-side framework `vue`
 - Linter `eslint`
 - Unit testing `jest`
+- End-to-end testing using `nightwatch`
 
 ## Features
 
