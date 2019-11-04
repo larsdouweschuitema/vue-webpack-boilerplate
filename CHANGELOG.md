@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Set url in end-to-end tests based on environment variable so that it works with any server
 
+## [1.2.2] - 2019-11-05
+- Change `nightwatch` configuration to allow multiple environments
+- Use `browser.launch_url` to specify environment for `nightwatch` end-to-end testing
+
 ## [1.2.1] - 2019-11-04
 - Move unit tests to same directory as end-to-end tests
 - Put unit tests in unit test directory

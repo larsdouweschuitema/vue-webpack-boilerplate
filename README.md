@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.2.1-green.svg)](https://semver.org)
+[![version](https://img.shields.io/badge/version-1.2.2-green.svg)](https://semver.org)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 <h1 align="center">
@@ -59,6 +59,11 @@ $ yarn run unit
 End-to-end testing using `nightwatch`
 ```
 $ yarn run e2e
+```
+
+End-to-end testing with a different environment
+```
+$ yarn run e2e --env accept
 ```
 
 Run all tests
