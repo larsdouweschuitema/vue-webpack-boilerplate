@@ -61,6 +61,11 @@ End-to-end testing using `nightwatch`
 $ yarn run e2e
 ```
 
+End-to-end testing with a different environment
+```
+$ yarn run e2e --env accept
+```
+
 Run all tests
 ```
 $ yarn run test

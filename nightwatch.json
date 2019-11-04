@@ -9,9 +9,16 @@
 
   "test_settings" : {
     "default" : {
+      "launch_url": "http://localhost:8080",
       "desiredCapabilities": {
         "browserName": "chrome"
       }
+    },
+    "accept" : {
+      "launch_url": "http://accept.host"
+    },
+    "production" : {
+      "launch_url": "http://prod.host"
     }
   }
 }
