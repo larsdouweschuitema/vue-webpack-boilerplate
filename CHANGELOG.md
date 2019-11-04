@@ -41,5 +41,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `eslint` and `eslint-loader` to lint code for identifying and reporting on patterns in JavaScript
 
 ## [Releases]
-
+- https://github.com/larsdouweschuitema/vue-webpack-boilerplate/releases/tag/1.2.1
+- https://github.com/larsdouweschuitema/vue-webpack-boilerplate/releases/tag/1.2.0
+- https://github.com/larsdouweschuitema/vue-webpack-boilerplate/releases/tag/1.1.0
+- https://github.com/larsdouweschuitema/vue-webpack-boilerplate/releases/tag/1.0.1
 - https://github.com/larsdouweschuitema/vue-webpack-boilerplate/releases/tag/1.0.0
