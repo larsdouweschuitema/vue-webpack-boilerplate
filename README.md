@@ -5,7 +5,12 @@
   Vue Webpack Boilerplate
 </h1>
 
-A webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing.
+A webpack boilerplate for Vue
+
+A lean webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing. By lean we mean that we still want to give you the freedom in configuring your project. Think about choices like:
+- Router e.g. `vue-router`
+- State management e.g. `vuex`
+- Pre-processors e.g. `sass`
 
 ## Table of contents
 
