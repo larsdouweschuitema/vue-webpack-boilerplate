@@ -16,7 +16,6 @@ A webpack boilerplate for Vue including hot-reloading, linting, unit testing and
 - [Features](#features)
 - [Contributing](#contributing)
 - [Licenses](#licenses)
-- [Contributors](#contributors)
 
 ## Prerequisites
 
