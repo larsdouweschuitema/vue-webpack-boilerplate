@@ -92,6 +92,7 @@ $ yarn run test
 
 - Single file components using `vue-loader`
 - Linting on save using `eslint`
+- CSS extraction on production using `mini-css-extract-plugin`
 - Hot reloading
 - Source maps
 - Auto generated file including root element using `html-webpack-plugin` and `html-webpack-root-plugin`
