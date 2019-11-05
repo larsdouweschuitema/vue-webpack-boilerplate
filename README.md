@@ -1,5 +1,8 @@
 [![version](https://img.shields.io/badge/version-1.2.4-green.svg)](https://semver.org)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<img src="https://img.shields.io/github/issues/larsdouweschuitema/vue-webpack-boilerplate" />
+<img src="https://img.shields.io/github/stars/larsdouweschuitema/vue-webpack-boilerplate" />
+<img src="https://img.shields.io/github/license/larsdouweschuitema/vue-webpack-boilerplate" />
 
 <div align="center">
   <img width="200" height="200" src="https://vuejs.org/images/logo.png">
