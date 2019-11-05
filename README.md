@@ -4,11 +4,13 @@
   <h1>Vue Webpack Boilerplate</h1>
 </div>
 
-[![version](https://img.shields.io/badge/version-1.2.4-green.svg)](https://semver.org)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<p align="center">
+<img src="https://img.shields.io/badge/version-1.2.4-green.svg" />
+<img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" />
 <img src="https://img.shields.io/github/issues/larsdouweschuitema/vue-webpack-boilerplate" />
 <img src="https://img.shields.io/github/stars/larsdouweschuitema/vue-webpack-boilerplate" />
 <img src="https://img.shields.io/github/license/larsdouweschuitema/vue-webpack-boilerplate" />
+</p>
 
 A lean webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing. By lean we mean that we still want to give you the freedom in configuring your project. Think about choices like:
 - Router e.g. `vue-router`
