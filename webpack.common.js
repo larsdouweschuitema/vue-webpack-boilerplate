@@ -9,7 +9,10 @@ module.exports = {
     app: "./src/index.js"
   },
   resolve: {
-    extensions: [".js", ".vue"]
+    extensions: [".js", ".vue"],
+    alias: {
+      '@': path.resolve('src'),
+    }
   },
   module: {
     rules: [
@@ -40,7 +43,11 @@ module.exports = {
     new VueLoaderPlugin(),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: "My app"
+      title: "My app",
+      filename: 'index.html',
+      meta: {
+        'viewport': 'width=device-width, initial-scale=1, shrink-to-fit=no',
+      }
     }),
     new HtmlWebpackRootPlugin("app")
   ],
