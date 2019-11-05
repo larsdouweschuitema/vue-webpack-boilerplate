@@ -36,10 +36,12 @@ Clone the repository and change the directory
 $ git clone https://github.com/larsdouweschuitema/vue-webpack-boilerplate && cd vue-webpack-boilerplate
 ```
 
-Install dependencies
-
+Install dependencies using `npm` or `yarn`
 ```
 $ yarn install
+```
+```
+$ npm install
 ```
 
 Run app in development mode
