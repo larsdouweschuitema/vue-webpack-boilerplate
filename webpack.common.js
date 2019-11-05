@@ -40,7 +40,11 @@ module.exports = {
     new VueLoaderPlugin(),
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
-      title: "My app"
+      title: "My app",
+      filename: 'index.[hash].html',
+      meta: {
+        'viewport': 'width=device-width, initial-scale=1, shrink-to-fit=no',
+      }
     }),
     new HtmlWebpackRootPlugin("app")
   ],
