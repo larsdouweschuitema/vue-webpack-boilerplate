@@ -9,7 +9,10 @@ module.exports = {
     app: "./src/index.js"
   },
   resolve: {
-    extensions: [".js", ".vue"]
+    extensions: [".js", ".vue"],
+    alias: {
+      '@': path.resolve('src'),
+    }
   },
   module: {
     rules: [
