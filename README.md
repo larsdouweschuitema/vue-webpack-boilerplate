@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.2.3-green.svg)](https://semver.org)
+[![version](https://img.shields.io/badge/version-1.2.4-green.svg)](https://semver.org)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 <div align="center">
@@ -9,7 +9,6 @@
 A lean webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing. By lean we mean that we still want to give you the freedom in configuring your project. Think about choices like:
 - Router e.g. `vue-router`
 - State management e.g. `vuex`
-- Pre-processors e.g. `sass`
 
 ## Table of contents
 
@@ -85,6 +84,7 @@ $ yarn run test
 - Linter `eslint`
 - Unit testing `jest`
 - End-to-end testing using `nightwatch`
+- Pre-processor `sass` for styling components
 
 ## Features
 

@@ -1,5 +1,5 @@
 <template>
-  <div id="app">
+  <div class="example">
     <h1>App</h1>
   </div>
 </template>
@@ -9,3 +9,9 @@
     name: "App"
   };
 </script>
+
+<style scoped lang="scss">
+  h1 {
+    color: red;
+  }
+</style>
