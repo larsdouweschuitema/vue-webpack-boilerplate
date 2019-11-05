@@ -1,9 +1,10 @@
 [![version](https://img.shields.io/badge/version-1.2.3-green.svg)](https://semver.org)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
-<h1 align="center">
-  Vue Webpack Boilerplate
-</h1>
+<div align="center">
+  <img width="200" height="200" src="https://vuejs.org/images/logo.png">
+  <h1>Vue Webpack Boilerplate</h1>
+</div>
 
 A webpack boilerplate for Vue
 
