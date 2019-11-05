@@ -41,7 +41,7 @@ module.exports = {
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: "My app",
-      filename: 'index.[hash].html',
+      filename: 'index.html',
       meta: {
         'viewport': 'width=device-width, initial-scale=1, shrink-to-fit=no',
       }
