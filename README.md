@@ -68,7 +68,7 @@ $ yarn run e2e
 
 End-to-end testing with a different environment
 ```
-$ yarn run e2e --env accept
+$ yarn run e2e --env production
 ```
 
 Run all tests
