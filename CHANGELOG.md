@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 - Set url in end-to-end tests based on environment variable so that it works with any server
 
+## [1.2.5] - 2019-11-05
+- Add lock file for package.json
+- Add instructions for `npm` to README.md
+
 ## [1.2.4] - 2019-11-05
 - Add preprocessor using dependencies `sass-loader` and `node-sass` to allow use of style tag inside `.vue` files
 
