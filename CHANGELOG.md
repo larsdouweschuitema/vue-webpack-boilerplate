@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.2.3] - 2019-11-05
 - Add meta tag viewport to optimize viewport for all devices by configuring `html-webpack-plugin` in `webpack` configuration
-- Hash index.html file by configuring `html-webpack-plugin` in `webpack` configuration
+- Create alias in `webpack` configuration using `@` symbol to allow easier import of `vue` components
 
 ## [1.2.2] - 2019-11-05
 - Change `nightwatch` configuration to allow multiple environments
