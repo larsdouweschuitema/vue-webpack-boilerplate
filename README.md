@@ -1,14 +1,14 @@
-[![version](https://img.shields.io/badge/version-1.2.4-green.svg)](https://semver.org)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
-<img src="https://img.shields.io/github/issues/larsdouweschuitema/vue-webpack-boilerplate" />
-<img src="https://img.shields.io/github/stars/larsdouweschuitema/vue-webpack-boilerplate" />
-<img src="https://img.shields.io/github/license/larsdouweschuitema/vue-webpack-boilerplate" />
-
 <div align="center">
   <img width="200" height="200" src="https://vuejs.org/images/logo.png">
   <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg">
   <h1>Vue Webpack Boilerplate</h1>
 </div>
+
+[![version](https://img.shields.io/badge/version-1.2.4-green.svg)](https://semver.org)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+<img src="https://img.shields.io/github/issues/larsdouweschuitema/vue-webpack-boilerplate" />
+<img src="https://img.shields.io/github/stars/larsdouweschuitema/vue-webpack-boilerplate" />
+<img src="https://img.shields.io/github/license/larsdouweschuitema/vue-webpack-boilerplate" />
 
 A lean webpack boilerplate for Vue including hot-reloading, linting, unit testing and end-to-end testing. By lean we mean that we still want to give you the freedom in configuring your project. Think about choices like:
 - Router e.g. `vue-router`
