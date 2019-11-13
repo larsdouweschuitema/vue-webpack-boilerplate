@@ -16,7 +16,7 @@ A lean webpack boilerplate for Vue including hot-reloading, linting, unit testin
 - Router e.g. `vue-router`
 - State management e.g. `vuex`
 
-This boilerplate is not opinionated. As said before, we want to give you as much freedom as possible. The only reason we picked Webpack is that we want to give you that same freedom of configuring things with the choice of bundler, and Webpack gives you that option.
+This boilerplate is not opinionated. As said before, we want to give you as much freedom as possible. The only reason we picked Webpack is that we want to give you that same freedom of configuring with the bundler, and Webpack gives you that option.
 
 ## Table of contents
 
