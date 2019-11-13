@@ -16,7 +16,7 @@ A lean webpack boilerplate for Vue including hot-reloading, linting, unit testin
 - Router e.g. `vue-router`
 - State management e.g. `vuex`
 
-This boilerplate is far from opionated. As said before, we want to give you as much freedom that is possible with the minimal required setup. The reason we picked Webpack, is that it gives you that freedom of configuring things, but you don't have to. More can be said, as we also picked `jest` and `nightwatch` for our test setup, we want to give you a minimal working setup, but feel free to change it as you want within your own project. And that counts for everything else that you can think of.
+This boilerplate is far from opionated. As said before, we want to give you as much freedom that is possible with the minimal required setup. The reason we picked Webpack, is that it gives you that freedom of configuring things, but you don't have to. More can be said, as we also picked `jest` and `nightwatch` for our test setup, that is because we want to give you a minimal working setup, but feel free to change it as you want within your own project. And that counts for everything else that you can think of.
 
 ## Table of contents
 
